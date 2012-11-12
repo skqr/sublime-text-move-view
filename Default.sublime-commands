@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "TabMover: Move left",
+        "command": "move_view_left"
+    },
+    {
+        "caption": "TabMover: Move right",
+        "command": "move_view_right"
+    }
+]

@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift+pageup"], "command": "move_view_left" },
+	{ "keys": ["ctrl+shift+pagedown"], "command": "move_view_right" }
+]
